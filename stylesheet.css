@@ -11,7 +11,7 @@ html {
 
 @font-face {
 	font-family: 'quicksand';
-	src: url(../fonts/quicksand/Quicksand-Light.otf);
+	src: url(/curriculum-vitae/Quicksand-Light.otf);
 }
 
 @function text-color($color) {
