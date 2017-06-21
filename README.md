@@ -1,5 +1,5 @@
-# market-base
+# curriculum-vitae
 
-This is my receptacle for all marketing and careers resources.
+This is the online version of my CV.
 
-Includes CVs, cover letters, previous works, references and more.
+Rationale: hyperlinks, logos, longer copy, handles etc.
